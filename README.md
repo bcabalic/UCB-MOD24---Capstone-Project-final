@@ -127,26 +127,3 @@ Three models were trained and evaluated on the same 34,200-row stratified datase
 
 ---
 
-## Usage
-
-1. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) and place `spotify_dataset.csv` in the project root (or update the path in cell 2).
-2. Run the notebook top-to-bottom in Google Colab or Jupyter.
-3. LightGBM is not required — all dependencies are available in a standard Colab environment.
-
-### Dependencies
-
-```
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-lightgbm
-```
-
----
-
-## Author
-
-**Brian Cabalic** — Capstone Project, Module 24: Multi-Model Comparison
-
