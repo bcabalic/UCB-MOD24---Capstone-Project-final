@@ -42,7 +42,7 @@ Automatic music genre classification using Spotify's pre-computed audio features
 
 ---
 
-## Project Structure
+## Included Files
 
 ```
 ├── spotify_genre_classification_module24_final.ipynb   # Main notebook
